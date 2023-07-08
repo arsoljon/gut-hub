@@ -12,4 +12,7 @@ Sources:
 What Is the Microbiome?
 The human gut is home to a variety of microbes, including bacteria, archaea (single-celled organisms without nuclei that are related more closely to eukaryotes than to bacteria), fungi (mostly yeasts), microbial eukaryotes (usually Blastocystis in the United States, but a variety of pathogenic and nonpathogenic taxa in developing countries), and viruses/phages. This collection of microbes is called the microbiota; their genes are called the microbiome.
 
---------------------------------------------------------------------------------------------
+
+Therefore, there is no standard microbiome ecology that all healthy people share. 
+
+----------------------
