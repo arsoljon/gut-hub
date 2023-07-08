@@ -16,4 +16,4 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 
 * On the other hand, changes induced by diet (eg, those associated with weight loss), take place on a timescale closer to months than days in human beings.
 
----
+--
