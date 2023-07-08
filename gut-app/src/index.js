@@ -6,12 +6,14 @@ import {
 } from "react-router-dom";
 import './index.css';
 import Root from "./pages/root";
+import Error from "./pages/Error"
 import App from './App';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root/>,
+    errorElement: <Error />,
   },
 ]);
 
