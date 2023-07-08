@@ -3,7 +3,9 @@ What does your personal gut profile look like? How do the foods you eat affect y
 
 
 Questions: 
-What kind of bacteria does your food breakdown into?
+
+* What kind of bacteria does your food breakdown into?
+* How does bacteria breakdown nutrients in your gut?
 
 Sources: 
 
