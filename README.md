@@ -16,4 +16,8 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 
 * On the other hand, changes induced by diet (eg, those associated with weight loss), take place on a timescale closer to months than days in human beings.
 
---
+---
+
+[Moving pictures of the human microbiome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3271711/)
+
+* We find that despite stable differences between body sites and individuals, there is pronounced variability in an individual's microbiota across months, weeks and even days. Additionally, only a small fraction of the total taxa found within a single body site appear to be present across all time points, suggesting that no core temporal microbiome exists at high abundance (although some microbes may be present but drop below the detection threshold). Many more taxa appear to be persistent but non-permanent community members.
