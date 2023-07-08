@@ -8,6 +8,7 @@ Questions:
 * How does bacteria breakdown nutrients in your gut?
 * Focusing on popular foods for gut health, (ie. kimchi, sauerkraut, yogurt, kombucha) what facilitates "good" gut health from each?
 * Can gut health be graded based off quality of poop?
+* is gut health influenced by hormones?
 
 Sources: 
 
