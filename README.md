@@ -2,6 +2,9 @@
 What does your personal gut profile look like? How do the foods you eat affect your gut? Lets visualize it all using gut-hub
 
 
+Questions: 
+What kind of bacteria does your food breakdown into?
+
 Sources: 
 
 [Microbiome 101: Studying, Analyzing, and Interpreting Gut Microbiome Data for Clinicians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6391518/)
