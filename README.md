@@ -1,6 +1,9 @@
 # gut-hub
 What does your personal gut profile look like? How do the foods you eat affect your gut? Lets visualize it all using gut-hub
 
+## Feature Ideas
+- Create a general gut outline. 
+- Pick certain vitamins and colorize them. Then create a color rainbow or blend based off the quantity of different vitamins you receive from foods. 
 
 Questions: 
 
@@ -9,6 +12,7 @@ Questions:
 * Focusing on popular foods for gut health, (ie. kimchi, sauerkraut, yogurt, kombucha) what facilitates "good" gut health from each?
 * Can gut health be graded based off quality of poop?
 * Is gut health influenced by hormones? Or does gut health influence hormone production?
+* Is the waste product of a microbiome the benefit? / Or is it the process of eliminating certain nutrients? / (purfication)
 
 Sources: 
 
