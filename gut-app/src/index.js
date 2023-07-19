@@ -11,6 +11,7 @@ import Contact, {loader as contactLoader, action as contactAction,} from "./page
 import EditContact, {action as editAction} from "./pages/edit"
 import { action as destroyAction } from "./pages/destroy";
 import Index from "./pages/index";
+import P5Component from "./components/P5component"
 import App from './App';
 
 const router = createBrowserRouter([
@@ -43,9 +44,14 @@ const router = createBrowserRouter([
           errorElement: <div>Oops! There was an error.</div>,
         },
       ],
-    }
+      
+    },
   ],
   },
+  {
+    path:"p5",
+    element: <P5Component/>,
+  }
 
 ]);
 
