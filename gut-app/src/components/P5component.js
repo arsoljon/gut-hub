@@ -35,7 +35,7 @@ const sketch = (p) => {
         p.rect(x - size / 2, y - size / 2, size, size);
         let c1 = p.color(255, 0, 0)
         let c2 = p.color(0, 0, 255)
-        fillGradient(c1, c2, x, y, x+size, y+size)
+        fillGradient(c1, c2, x, y, size)
         //drawing code
         //p5.background(220);
         //p5.ellipse(50,50,80,80);
