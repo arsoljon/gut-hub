@@ -15,10 +15,12 @@ const data = [1,2]
 const sketch = (p) => {
     //make a gradient within a shape. 
     const size = 150;
-    let s1 = 400
-    let s2 = 400
+    let s1 = 600
+    let s2 = 600
     let x = 100;
     let y = 100;
+    //let xgrad = p.random(x-(size*.1),x-(size*.9))
+    //let ygrad = p.random(y-(size*.1),y-(size*.9))
     let canvas;
     p.setup = () => {
         //setup code
@@ -32,7 +34,7 @@ const sketch = (p) => {
      p.draw = () => {
         let amt = (p.mouseY + p.mouseX) % 255 + 1
         p.background(0);
-        p.rect(x - size / 2, y - size / 2, size, size);
+        p.circle(x, y, size);
         let c1 = p.color(255, 0, 0)
         let c2 = p.color(0, 0, 255)
         fillGradient(c1, c2, x, y, size)
@@ -42,22 +44,28 @@ const sketch = (p) => {
      }
 
      p.mousePressed = () => {
-        x = p.random(s1-x)
-        y = p.random(s2-y)
+        //x = p.random(s1-x)
+        //y = p.random(s2-y)
+        //xgrad = p.random(x-(size*.9), x)
+        //ygrad = p.random(y-(size*.9), y)
      }
 
      function fillGradient(c1, c2, centerX, centerY, shapeSize){
         let halfSize = shapeSize / 2;
-  
+        let radius = halfSize;
+        const centerColorSize = 0.8
         for (let x = centerX - halfSize; x <= centerX + halfSize; x++) {
           for (let y = centerY - halfSize; y <= centerY + halfSize; y++) {
             let distance = p.dist(centerX, centerY, x, y);
-            let maxDist = halfSize * 0.8; // Adjust this value to control the gradient's maximum position
-            let inter = p.constrain(distance, 0, maxDist) / maxDist;
-            let c = p.lerpColor(c1, c2, inter);
+            let maxDist = (halfSize * centerColorSize); // Adjust this value to control the gradient's maximum position
+            //let inter = p.constrain(distance/halfSize, 0, 1);
+            if (distance <= radius){
+                let inter = p.map(distance, 0, radius, 0, 1);
+                let c = p.lerpColor(c1, c2, inter);
 
-            p.stroke(c);
-            p.point(x, y);
+                p.stroke(c);
+                p.point(x, y);
+            }
           }
         }
     }
