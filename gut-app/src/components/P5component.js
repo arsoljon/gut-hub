@@ -22,6 +22,7 @@ const sketch = (p) => {
     //let xgrad = p.random(x-(size*.1),x-(size*.9))
     //let ygrad = p.random(y-(size*.1),y-(size*.9))
     let canvas;
+    let canvasColor = 255
     p.setup = () => {
         //setup code
         //p5.background(100)
@@ -33,9 +34,10 @@ const sketch = (p) => {
     }
      p.draw = () => {
         let amt = (p.mouseY + p.mouseX) % 255 + 1
-        p.background(0);
+        p.background(canvasColor);
+        p.noStroke()
         p.circle(x, y, size);
-        let c1 = p.color(255, 0, 0)
+        let c1 = p.color(255,255,255)
         let c2 = p.color(0, 0, 255)
         fillGradient(c1, c2, x, y, size)
         //drawing code
@@ -60,9 +62,8 @@ const sketch = (p) => {
             let maxDist = (halfSize * centerColorSize); // Adjust this value to control the gradient's maximum position
             //let inter = p.constrain(distance/halfSize, 0, 1);
             if (distance <= radius){
-                let inter = p.map(distance, 0, radius, 0, 1);
+                let inter = p.map(distance, 0, radius, 1, 0);
                 let c = p.lerpColor(c1, c2, inter);
-
                 p.stroke(c);
                 p.point(x, y);
             }
