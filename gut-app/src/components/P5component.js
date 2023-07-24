@@ -17,11 +17,17 @@ const sketch = (p) => {
     const size = 150;
     let s1 = 600
     let s2 = 600
+    let varyShade = 10
+    let varySize = 10
     let x = 100;
     let y = 100;
     let x2 = x + (x/2)
     let y2 = y
-    let x3 = x + (x/3)
+    x = p.random(size, s1-x)
+    y = p.random(size, s1-y)
+    x2 = p.random(size, s1-x)
+    y2 = p.random(size, s1-y)
+
     //let xgrad = p.random(x-(size*.1),x-(size*.9))
     //let ygrad = p.random(y-(size*.1),y-(size*.9))
     let canvas;
@@ -33,21 +39,21 @@ const sketch = (p) => {
         if (!canvas) {
             canvas = p.createCanvas(s1, s2);
           }
-          p.noLoop()
+        p.noLoop()
     }
      p.draw = () => {
         let amt = (p.mouseY + p.mouseX) % 255 + 1
-        let c1 = p.color(255,255,255,100)
-        let c2 = p.color(0, 0, 255, 0)
-        let c3 = p.color(255,0,0,0)
+        
+        let color1 = p.color(255,255,255,100)
+        let color2 = p.color(0,0,255,0)
+        let color3 = p.color(255,0,0,0)
+        
         p.noStroke()
         p.stroke(0,100)
         p.strokeWeight(2)
  
-        c1.setAlpha(128 + 128 * p.sin(p.millis() / 1000))
-
-        fillGradient(c1, c2, x, y, size)
-        fillGradient(c1, c3, x2, y2, size)
+        fillGradient(color1, color2, x, y, size,1,10) //blue
+        fillGradient(color1, color3, x2, y2, size,1,10)
 
         //drawing code
         //p5.background(220);
@@ -55,16 +61,24 @@ const sketch = (p) => {
      }
 
      p.mousePressed = () => {
-        //x = p.random(s1-x)
-        //y = p.random(s2-y)
+        //x = p.random(size, s1-x)
+        //y = p.random(size, s2-y)
+        //x2 = p.random(size, s1-x)
+        //y2 = p.random(size, s2-y)
+        //p.redraw()
         //xgrad = p.random(x-(size*.9), x)
         //ygrad = p.random(y-(size*.9), y)
      }
-
-     function fillGradient(c1, c2, centerX, centerY, shapeSize){
+     // properties : color1, color2, x, y, defaultSize, colored darker if more (0-10), bigger surface area if more(0-5) 
+     function fillGradient(c1, c2, centerX, centerY, shapeSize, shadeIntensity, sizeIntensity){
+        sizeIntensity = p.constrain(sizeIntensity, 0, 10)
+        shadeIntensity = p.constrain(shadeIntensity, 0, 3)
+        sizeIntensity = p.map(sizeIntensity, 0, 10, 0, 1.5)
+        shadeIntensity = p.map(shadeIntensity, 0, 4, 0,15)
+        shapeSize = shapeSize * sizeIntensity
         let halfSize = shapeSize / 2;
         let radius = halfSize;
-        const centerColorSize = 0.9
+        const centerColorSize = 10
         for (let x = centerX - halfSize; x <= centerX + halfSize; x++) {
           for (let y = centerY - halfSize; y <= centerY + halfSize; y++) {
             let distance = p.dist(centerX, centerY, x, y);
@@ -73,8 +87,16 @@ const sketch = (p) => {
             if (distance <= radius){
                 let inter = p.map(distance, 0, radius, 0, 1);
                 let c = p.lerpColor(c1, c2, inter);
-                p.stroke(c);
-                p.point(x, y);
+                console.log(`c2 value : ${c2}`)
+                
+                for(let i = 0; i < shadeIntensity; ++i){
+                    p.stroke(c);
+                    p.point(x, y);
+                }
+                
+                //p.stroke(c);
+                //p.point(x, y);
+
             }
           }
         }
