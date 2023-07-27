@@ -43,5 +43,15 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
   - (c) it performs a barrier function against pathogens and toxins, where some bacteria release antimicrobial agents that protect from the pathogenic bacteria.
   - (d) it plays a protective role in promoting the immune system development.
   - (e) it supports in the synthesis of essential vitamins like vitamin B: Magnúsdóttir et al. estimated that 86% of the recommended daily allowance (RDA) of vitamin B6, 37% of the RDA of vitamin B9, 31% of the RDA of vitamin B12, and 27% of the RDA of vitamin B3 could be provided by the human gut microbiota.
-
-
+*  The gut and brain connect via a neuro-immuno-humoral network of signaling pathways known as the gut microbiome–brain axis, which includes the vagus nerve, the immune system, the hormonal system, and bacterial metabolites and products.
+* Specific patterns have been reported in plant-based versus animal-based diets.
+* The development and modifications of the gut microbiota are influenced by multiple other factors, such as exposure to stress, environmental conditions, medications intake, lifecycle, medical disorders, and procedures.
+* The human gut microbiota is divided into many groups called phyla. The gut microbiota primarily comprises four main phyla, including Firmicutes, Bacteroidetes, Actinobacteria, and Proteobacteria, with the Firmicutes and Bacteroidetes representing 90% of gut microbiota.81,82 The majority of bacteria reside within the gastrointestinal tract, with most predominantly anaerobic bacteria housed in the large intestine.
+* ...data from the CAS Content Collection,15 the largest human-curated collection of published scientific information...
+### Gut-Microbiota-Participant Bacteria
+* The human gut microbiome, as mentioned above, is a complex mixture of microorganisms, including viruses, archaea, bacteria, yeasts, and fungi, interacting with each other and with their host in complex ways. These interactions at various times involve symbiosis, mutualism, antagonism, and even predation.
+* In healthy human stomach, the genera Streptococcus, Prevotella, Veillonella, Rothia, and Haemophilus were found to be predominant; however, the composition of the gastric microbiota is dynamic and affected by such factors as diet, drugs, and diseases.
+* The small intestine provides a more challenging environment for microbial colonizers given the short transit times (3–5 h) and the high bile concentrations.
+* The large intestine is home to the most complex bacterial diversity...Five major phyla—Firmicutes, Bacteroidetes, Actinobacteria, Verrucomicrobia, and Proteobacteria—covering a wide range of bacterial genera—Clostridium, Fusobacterium, Bacteroidetes, Actinomyces, and Propionibacterium—are associated with the large intestine. Other Gram-positive cocci—Micrococci, Peptococci, Peptostreptococci, and Ruminococci—have been also reported to play crucial roles in the large intestine.
+* The microbiome composition of the intestinal lumen...is highly diverse and comprises Verrucomicrobia, Fusobacteria, Asteroplasma, Cyanobacteria, Actinobacteria, Lentisphaera, Spirochaetes, Bacteroidetes, Proteobacteria, Bacilli, Clostridia, and Mollicutes. The predominating genera are Escherichia, Klebsiella, Enterococcus, Bacteroides, Ruminococcus, Dorea, Clostridium, Coprococcus, Weisella, and Lactobacillus. Other genera found include Granulicatella, Streptococcus, and Veillonella.
+#### Types of Bacteria Found in the GI Tract
