@@ -38,10 +38,10 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 []()
 
 * Role of the human microbiota:
-- (a) it promotes digestion by assisting the absorption of nutrients by gut cells or the fermentation of some food fractions, which generate important metabolites, including short-chain fatty acids.
-- (b) it supports the maturation of the digestive tract by participating in the assembly of gastrointestinal mucus and promoting the enzymatic activity of the mucosa.
-- (c) it performs a barrier function against pathogens and toxins, where some bacteria release antimicrobial agents that protect from the pathogenic bacteria.
-- (d) it plays a protective role in promoting the immune system development.
-- (e) it supports in the synthesis of essential vitamins like vitamin B: Magnúsdóttir et al. estimated that 86% of the recommended daily allowance (RDA) of vitamin B6, 37% of the RDA of vitamin B9, 31% of the RDA of vitamin B12, and 27% of the RDA of vitamin B3 could be provided by the human gut microbiota.
+  - (a) it promotes digestion by assisting the absorption of nutrients by gut cells or the fermentation of some food fractions, which generate important metabolites, including short-chain fatty acids.
+  - (b) it supports the maturation of the digestive tract by participating in the assembly of gastrointestinal mucus and promoting the enzymatic activity of the mucosa.
+  - (c) it performs a barrier function against pathogens and toxins, where some bacteria release antimicrobial agents that protect from the pathogenic bacteria.
+  - (d) it plays a protective role in promoting the immune system development.
+  - (e) it supports in the synthesis of essential vitamins like vitamin B: Magnúsdóttir et al. estimated that 86% of the recommended daily allowance (RDA) of vitamin B6, 37% of the RDA of vitamin B9, 31% of the RDA of vitamin B12, and 27% of the RDA of vitamin B3 could be provided by the human gut microbiota.
 
 
