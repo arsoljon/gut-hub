@@ -12,6 +12,7 @@ import EditContact, {action as editAction} from "./pages/edit"
 import { action as destroyAction } from "./pages/destroy";
 import Index from "./pages/index";
 import P5Component from "./components/P5component"
+import P5Gut from "./components/P5gut"
 import App from './App';
 
 const router = createBrowserRouter([
@@ -51,7 +52,11 @@ const router = createBrowserRouter([
   {
     path:"p5",
     element: <P5Component/>,
-  }
+  },
+  {
+    path:"gut",
+    element: <P5Gut/>,
+  },
 
 ]);
 
@@ -59,6 +64,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <RouterProvider router={router} />
+    
   </React.StrictMode>
 );
 
