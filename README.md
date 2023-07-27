@@ -3,7 +3,8 @@ What does your personal gut profile look like? How do the foods you eat affect y
 
 ## Feature Ideas
 - Create a general gut outline. 
-- Pick certain vitamins and colorize them. Then create a color rainbow or blend based off the quantity of different vitamins you receive from foods. 
+- Pick certain vitamins and colorize them. Then create a color rainbow or blend based off the quantity of different vitamins you receive from foods.
+- The gut is mapped as being the mouth, esophagus, stomach, small intestine, large intestine, and rectum. Find studies about each. 
 
 Questions: 
 
@@ -13,6 +14,7 @@ Questions:
 * Can gut health be graded based off quality of poop?
 * Is gut health influenced by hormones? Or does gut health influence hormone production?
 * Is the waste product of a microbiome the benefit? / Or is it the process of eliminating certain nutrients? / (purfication)
+* Depending on where the microbe is located in the map of the gut, do they benefit or harm differently?
 
 Sources: 
 
@@ -30,3 +32,16 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 [Moving pictures of the human microbiome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3271711/)
 
 * We find that despite stable differences between body sites and individuals, there is pronounced variability in an individual's microbiota across months, weeks and even days. Additionally, only a small fraction of the total taxa found within a single body site appear to be present across all time points, suggesting that no core temporal microbiome exists at high abundance (although some microbes may be present but drop below the detection threshold). Many more taxa appear to be persistent but non-permanent community members.
+
+---
+
+[]()
+
+* Role of the human microbiota:
+(a) it promotes digestion by assisting the absorption of nutrients by gut cells or the fermentation of some food fractions, which generate important metabolites, including short-chain fatty acids.
+(b) it supports the maturation of the digestive tract by participating in the assembly of gastrointestinal mucus and promoting the enzymatic activity of the mucosa.
+(c) it performs a barrier function against pathogens and toxins, where some bacteria release antimicrobial agents that protect from the pathogenic bacteria.
+(d) it plays a protective role in promoting the immune system development.
+(e) it supports in the synthesis of essential vitamins like vitamin B: Magnúsdóttir et al. estimated that 86% of the recommended daily allowance (RDA) of vitamin B6, 37% of the RDA of vitamin B9, 31% of the RDA of vitamin B12, and 27% of the RDA of vitamin B3 could be provided by the human gut microbiota.
+
+
