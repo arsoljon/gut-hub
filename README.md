@@ -35,7 +35,7 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 
 ---
 
-[]()
+[Gut Microbiome–Brain Alliance: A Landscape View into Mental and Gastrointestinal Health and Disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10197139/#ref28)
 
 * Role of the human microbiota:
   - (a) it promotes digestion by assisting the absorption of nutrients by gut cells or the fermentation of some food fractions, which generate important metabolites, including short-chain fatty acids.
