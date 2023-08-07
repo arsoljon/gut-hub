@@ -63,3 +63,8 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 * Fusobacteria
 * Verrucobacteria
 #### Gut Microbiome–Disease Correlations
+* Specifically, gut microbes contribute directly and/or indirectly to important physiological activities, including immunomodulation and the regulation of various neurotransmitters, hormones, and metabolites.
+* A search in the CAS Content Collection identified a large collection of studies reporting correlations between gut microbiota and a wide range of diseases, including mental, metabolic, and digestive system disorders; cardiovascular and neurodegenerative diseases; various cancers; and immune and autoimmune diseases
+* Dysbiosis is one of the hallmarks in the miscommunication between gut and brain and could lead to IBS symptoms.
+*  IBS was typified by enhanced quantities of Firmicutes and specifically in Ruminococcus, Clostridium, and Dorea, along with a distinct decrease of beneficial microbes, such as Bifidobacterium and Faecalibacterium spp. Moreover, a decrease in probiotic species and an increase in pathogenic species have been reported in patients with IBS, including Proteobacteria, Enterobacteriaceae, Lactobacillaceae, and Bacteroides (Bacteroidetes). Fecal transplantation from super donors and microbiome modulation either by pro- or prebiotics have shown beneficial effect in reducing IBS symptoms and improving patients’ quality of life.
+*  Like IBS, inflammatory bowel disease-related dysbiosis is associated with a general decrease in richness, diversity, and stability of the microbiota. This decline in diversity is concomitant with a weakened immune response and setbacks with the cellular barrier functions that normally block bacterial entry from the gut lumen into gut tissue.
