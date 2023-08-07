@@ -55,3 +55,11 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 * The large intestine is home to the most complex bacterial diversity...Five major phyla—Firmicutes, Bacteroidetes, Actinobacteria, Verrucomicrobia, and Proteobacteria—covering a wide range of bacterial genera—Clostridium, Fusobacterium, Bacteroidetes, Actinomyces, and Propionibacterium—are associated with the large intestine. Other Gram-positive cocci—Micrococci, Peptococci, Peptostreptococci, and Ruminococci—have been also reported to play crucial roles in the large intestine.
 * The microbiome composition of the intestinal lumen...is highly diverse and comprises Verrucomicrobia, Fusobacteria, Asteroplasma, Cyanobacteria, Actinobacteria, Lentisphaera, Spirochaetes, Bacteroidetes, Proteobacteria, Bacilli, Clostridia, and Mollicutes. The predominating genera are Escherichia, Klebsiella, Enterococcus, Bacteroides, Ruminococcus, Dorea, Clostridium, Coprococcus, Weisella, and Lactobacillus. Other genera found include Granulicatella, Streptococcus, and Veillonella.
 #### Types of Bacteria Found in the GI Tract
+* Firmicute; contains lactobacilli
+* Bacteroidetes
+* Actinobacteria; contains Bifidobacteria
+* Proteobacteria
+##### LowerNumbers
+* Fusobacteria
+* Verrucobacteria
+#### Gut Microbiome–Disease Correlations
