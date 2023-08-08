@@ -76,4 +76,5 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 * As a result of a high-fat diet, the intestinal microbiome is modified with rising amounts of Firmicutes and Proteobacteria and reduced levels of Bacteroidetes. The Firmicutes/Bacteroides ratio has been correlated to body weight, which means it is larger for obese people.185Clostridium difficile infections can also trigger obesity. Generally, obesity is affected by the inflammatory status induced by gut bacteria or their metabolites, which regulate the GBA.
  
  | diseases | decrease bacteria | increasing bacteria |
-|----------|-------------------|---------------------|
+ |----------|-------------------|---------------------|
+ | irritable bowel syndrome | Bifidobacterium, Faecalibacterium prausnitzii, Bacteroides | Ruminococcus, Dorea, Enterobacteriaceae, Lactobacillaceae, Bacteroides, Firmicutes/Bacteroidetes ratio |
