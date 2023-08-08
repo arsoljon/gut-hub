@@ -78,3 +78,15 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
  | diseases | decrease bacteria | increasing bacteria |
  |----------|-------------------|---------------------|
  | irritable bowel syndrome | Bifidobacterium, Faecalibacterium prausnitzii, Bacteroides | Ruminococcus, Dorea, Enterobacteriaceae, Lactobacillaceae, Bacteroides, Firmicutes/Bacteroidetes ratio |
+ | IBD: Crohn’s disease | Bacteroides, Faecalibacterium prausnitzii, Bifidobacterium adolescenti |  |
+ | IBD: ulcerative colitis | Bifidobacteria, Roseburia hominis, Faecalibacterium prausnitzii, Lachnospiraceae, Ruminococcaceae |  |
+ | anxiety disorder | Bacteriodetes, Ruminococcus gnavus, Fusobacterium | Bacteroidaceae, Enterobacteriaceae, Burkholderiaceae | 
+ | post-traumatic stress disorder | Actinobacteria, Lentisphaerae, Verrucomicrobia |  | 
+ | depression | Prevotella, Dialister | Eggerthella, Holdemania, Turicibacter, Paraprevotella | 
+ | dementia | Actinobacteria, Bacteroides | Escherichia, Blautia, Bifidobacterium, Streptococcus, Lactobacillus, Dorea | 
+ | diabetes type 1 | Lactobacillus, Bifidobacterium, Blautia coccoides, Eubacterium rectale, Prevotella, Akkermansia, Firmicutes | Clostridium, Bacteroides, Veillonella, Actinobacteria, Proteobacteria, Lactococcus | 
+ | diabetes type 2 | Firmicutes, Clostridia, Lactobacillus, Akkermansia muciniphilia, Roseburia | Betaproteobacteria, Bacteroidetes/Firmicutes ratio | 
+ | obesity | Bacteroidetes, Methanobrevibacter smithii, Ruminococcus flavefaciens, Bifidobacterium | Enterobacteria, Ruminococcus gnavus, Actinobacteria, Prevotellaceae | 
+
+
+ 
