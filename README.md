@@ -74,5 +74,6 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 *  Therapeutic interventions including the administration of pre- and probiotics (psychobiotics) to manage mental disorders and/or their symptoms have been undertaken.174,175 These inventions have included probiotic combinations of lactobacilli and Bifidobacteria, which has resulted in a significant drop in psychological distress,176 enhanced cognition and communication among patients with Alzheimer’s disease177 and autism spectrum disorders,178 and recovering symptoms among patients with Parkinson’s disease.
 * Systemic metabolic diseases that are believed to be strongly affected by gut microbiota status include obesity and diabetes.
 * As a result of a high-fat diet, the intestinal microbiome is modified with rising amounts of Firmicutes and Proteobacteria and reduced levels of Bacteroidetes. The Firmicutes/Bacteroides ratio has been correlated to body weight, which means it is larger for obese people.185Clostridium difficile infections can also trigger obesity. Generally, obesity is affected by the inflammatory status induced by gut bacteria or their metabolites, which regulate the GBA.
+ 
  | diseases | decrease bacteria | increasing bacteria |
 |----------|-------------------|---------------------|
