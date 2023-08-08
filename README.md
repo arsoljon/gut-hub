@@ -88,5 +88,6 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
  | diabetes type 2 | Firmicutes, Clostridia, Lactobacillus, Akkermansia muciniphilia, Roseburia | Betaproteobacteria, Bacteroidetes/Firmicutes ratio | 
  | obesity | Bacteroidetes, Methanobrevibacter smithii, Ruminococcus flavefaciens, Bifidobacterium | Enterobacteria, Ruminococcus gnavus, Actinobacteria, Prevotellaceae | 
 
-
- 
+*  Bacteroidetes are the most studied class of gut bacteria with relation to gastrointestinal and mental health, specifically with relation to stress, depression, and anxiety. Bacteroidetes are known to have a very broad metabolic potential and are regarded as one of the most stable parts of gastrointestinal microflora that exhibits remarkable nutritional flexibility and an ability to respond to stress.
+*  Firmicutes are the second extensively studied class of gut bacteria with relation to gastrointestinal and mental health, especially in relation to stress and depression.
+*  The relationship between Firmicutes and gastrointestinal disorders may be mediated by a number of different factors, such as the production of SCFAs by Firmicutes, which are an important energy source for the gut epithelium and have anti-inflammatory effects. 
