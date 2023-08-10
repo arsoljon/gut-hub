@@ -17,6 +17,9 @@ Questions:
 * Depending on where the microbe is located in the map of the gut, do they benefit or harm differently?
 
 Sources: 
+Largest Scientific Content Collection (https://www.cas.org/about/cas-content)
+
+---
 
 [Microbiome 101: Studying, Analyzing, and Interpreting Gut Microbiome Data for Clinicians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6391518/)
 
