@@ -110,7 +110,7 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 #### Gut Microbiome-Brain Axis
 *  The gut is considered as our “second brain,” because of its hosting the enteric nervous system (ENS), a neural network that allows the gut to work without instructions from the brain.
 *  There is mounting data that gut microbiota are the source of a number of neuroactive and immunocompetent substances, as shown above, that help to shape the structure and function of brain regions involved in the control of emotions, cognition, and physical activity and contribute to the proper maintenance of gastrointestinal homeostasis.
-### IBS
+##### IBS
 *   Recent epidemiological data has suggested that in individuals developing both IBS and psychological features, the former preceded the latter in two-thirds of cases, and the latter preceded the former in one-third.
 *  IBS is associated with abnormalities of central pain processing but also increased gut permeability, mast cell activation, disordered motility, and dysbiosis.
 *  Interestingly, intestinal bacterial composition has been reported to be highly dependent on sample type and regional localization.
