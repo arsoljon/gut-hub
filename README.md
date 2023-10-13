@@ -117,4 +117,5 @@ The human gut is home to a variety of microbes, including bacteria, archaea (sin
 *  In rectal distention experiments, patients with IBS had a differential brain response in the pain matrix and default mode network.342 IBS patients showed increased engagement of endogenous pain faciliatory pathways and decreased levels of the endogenous pain inhibitory mechanism in the brain regions associated with visceral afferent processing and emotional arousal, including the left dorsal anterior cingulate gyrus and the bilateral anterior insulae.
 *  These results suggest that increased tryptophan in the gut may lead to loosened stool, and tryptophan-related signaling may travel to the posterior insula and increase pain perception and emotional salience in IBS-D, thereby suggesting a “bottom-up” signaling direction.
 *  Such anti-inflammatory mechanisms may also be partially responsible for the positive effects of dietary restrictions, such as those seen in the low-FODMAP (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols) diet in IBS.
-*  
+##### Functional Dyspepsia
+*  /
